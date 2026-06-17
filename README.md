@@ -1,9 +1,8 @@
-
 # Customer Churn Prediction System
 
 ## Overview
 
-Customer Churn Prediction System is a Machine Learning project developed to identify customers who are likely to leave a company's services. The project uses customer demographic and service-related information to predict churn and help businesses improve customer retention strategies.
+The Customer Churn Prediction System is a Machine Learning project developed to identify customers who are likely to leave a company's services. The project uses customer demographic and service-related information to predict churn and help businesses improve customer retention strategies.
 
 ## Features
 
@@ -47,4 +46,15 @@ This project helps businesses identify high-risk customers, reduce churn rates, 
 
 ## Author
 
-Vishal Sharma
+**Vishal Sharma**
+
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home_page.png)
+
+### Prediction Result
+![Prediction Result](screenshots/stay_prediction.png)
+
+### Churn Prediction
+![Churn Prediction](screenshots/churn_prediction.png)
