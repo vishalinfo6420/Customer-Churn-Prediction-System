@@ -48,13 +48,4 @@ This project helps businesses identify high-risk customers, reduce churn rates, 
 
 **Vishal Sharma**
 
-## Screenshots
 
-### Home Page
-![Home Page](screenshots/home_page.png)
-
-### Prediction Result
-![Prediction Result](screenshots/stay_prediction.png)
-
-### Churn Prediction
-![Churn Prediction](screenshots/churn_prediction.png)
